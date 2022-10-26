@@ -1,2 +1,2 @@
 # python-exercises
-solving programming exercises in python
+Python exercises that I solve in Hackerhanck.
