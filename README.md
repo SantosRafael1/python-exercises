@@ -1,2 +1,2 @@
 # python-exercises
-Python exercises that I solve in HackerRanck.
+Python exercises that I solve in HackerRanck and BeeCrowd.
